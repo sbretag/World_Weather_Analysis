@@ -13,9 +13,9 @@ The following recommendations have been approved to implement into the final ver
 ## Resources
 - Software
   - Visual Studio
- - Python
+  - Python
 - APIs
- - Google Maps
- - Open Weather Map
+  - Google Maps
+  - Open Weather Map
 
 
